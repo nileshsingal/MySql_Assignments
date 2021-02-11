@@ -146,4 +146,14 @@
     SELECT s.sname,s.city,c.cname FROM salespeople s,customer c WHERE s.snum=c.snum;
 ```
 
+- [x] Created Tables
+- [x] Inserted Values
+- [x] Started Quering
+- [ ] Will Add all 125 Queries 
+- [ ] And 3 Case Studies
+
+First Term
+: This is the definition of the first term.
+
+
 
