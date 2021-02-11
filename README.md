@@ -116,5 +116,18 @@
 ```MySql
     SELECT * FROM customer WHERE rating=100;
 ```
+`3. Find all records in the Customer table with NULL values in the city column.`
+
+```MySql
+    SELECT * FROM customer WHERE city IS NULL;
+```
+`4. Find the largest order taken by each salesperson on each date.`
+
+```MySql
+    
+```
+
+
+
 
 
