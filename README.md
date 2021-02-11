@@ -152,8 +152,6 @@
 - [ ] Will Add all 125 Queries 
 - [ ] And 3 Case Studies
 
-First Term
-: This is the definition of the first term.
-
+All 125 Queries and 3 Case Studies Solution(For your Reference When You Get Stuck) Will be Updated Before March 2021 
 
 
