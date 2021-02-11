@@ -1,5 +1,9 @@
 # MySql Assignments
 
-'''create database retail;
-use retail;
-'''
+
+
+    CREATE DATABASE : 
+
+```MySql
+    CREATE DATABASE retail;
+```
