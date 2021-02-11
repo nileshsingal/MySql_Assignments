@@ -1,5 +1,5 @@
 # MySql_Assignments
-/* MYSQL SLT QUESTIONS */
+/* MYSQL QUESTIONS */
 
 1.List all columns of salespeople table.
 ans. Select * from salespeople;
