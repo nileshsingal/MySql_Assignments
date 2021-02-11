@@ -111,5 +111,10 @@
 ```MySql
     SELECT * FROM salespeople;
 ```
+`2. List all customers with a rating of 100.`
+
+```MySql
+    SELECT * FROM customer WHERE rating=100;
+```
 
 
