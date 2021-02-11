@@ -105,6 +105,11 @@
 
 
 
+`1. List all the columns of the Salespeople table.`
 
+
+```MySql
+    SELECT * FROM salespeople;
+```
 
 
