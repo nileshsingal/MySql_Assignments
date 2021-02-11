@@ -124,10 +124,25 @@
 `4. Find the largest order taken by each salesperson on each date.`
 
 ```MySql
-    
+    SELECT snum,MAX(amt),odate FROM orders GROUP BY snum,odate ORDER by odate,snum;
+```
+`5. Arrange the Orders table by descending customer number.`
+
+```MySql
+    SELECT * from orders order by cnum desc;
 ```
 
+`6. Find which salespeople currently have orders in the Orders table.`
 
+```MySql
+    SELECT Customers.cname FROM customers,salespeople
+        WHERE Customers.snum=salespeople.snum;
+```
 
+`7. List names of all customers matched with the salespeople serving them.`
+
+```MySql
+    SELECT s.sname,s.city,c.cname FROM salespeople s,customer c WHERE s.snum=c.snum;
+```
 
 
