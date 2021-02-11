@@ -7,3 +7,10 @@
 ```MySql
     CREATE DATABASE retail;
 ```
+
+
+    USE DATABASE : 
+
+```MySql
+    USE retail;
+```
