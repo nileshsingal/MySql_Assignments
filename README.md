@@ -1,5 +1,5 @@
 # MYSQL
- [^1]: Qyeries_&_Case study_DBTcasestudies.
+### Qyeries_&_Case study_DBTcasestudies.
 
 
 
