@@ -1,4 +1,5 @@
-# MySql Assignments
+# MYSQL
+ ##Qyeries_&_Case study_DBTcasestudies,[^1]:
 
 
 
